@@ -1,6 +1,6 @@
 ##Visualizing Homicides in Oakland
 
-This is a demo application that uses [CartoDB](http://cartodb.com/), [Torque](https://github.com/CartoDB/torque) and crime incident data from the [City of Phladelphia](http://opendataphilly.org/opendata/resource/215/philadelphia-police-part-one-crime-incidents/).
+This is a demo application that uses [CartoDB](http://cartodb.com/), [Torque](https://github.com/CartoDB/torque) and crime report data from the City of Oakland.
 
 It was originally built at a [Code for Philly](http://codeforphilly.org/) civic application workshop by [Mark Headd](http://twitter.com/mheadd) and redeployed for Oakland by [Spike](http://twitter.com/spjika).
 
